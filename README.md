@@ -17,9 +17,9 @@ edit_code([Check or modify your code])
 generate_image([Create an organic image])
 totoro([Happy Totoro])
 
-classDef features fill:lightpink,stroke:white
+classDef features fill:darkcyan,stroke:white
 class chat,edit_text,edit_code,generate_image features
-style totoro fill:lightblue,stroke:white
+style totoro fill:blue,stroke:white
 totoro-->chat
 totoro-->edit_text
 totoro-->edit_code

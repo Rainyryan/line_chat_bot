@@ -19,7 +19,7 @@ totoro([Happy Totoro])
 
 classDef features fill:darkcyan,stroke:white
 class chat,edit_text,edit_code,generate_image features
-style totoro fill:blue,stroke:white
+style totoro fill:darkgreen,stroke:white
 totoro-->chat
 totoro-->edit_text
 totoro-->edit_code
